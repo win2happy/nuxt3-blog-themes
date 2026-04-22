@@ -1,8 +1,8 @@
 [
   {
     "id": "default-frontend",
-    "name": "默认前端主题",
-    "description": "系统默认的前端主题",
+    "name": "é»è®¤åç«¯ä¸»é¢",
+    "description": "ç³»ç»é»è®¤çåç«¯ä¸»é¢",
     "type": "frontend",
     "isDefault": true,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -123,8 +123,8 @@
   },
   {
     "id": "theme-dark-frontend",
-    "name": "深色前端主题",
-    "description": "适合夜间阅读的深色前端主题",
+    "name": "æ·±è²åç«¯ä¸»é¢",
+    "description": "éåå¤é´éè¯»çæ·±è²åç«¯ä¸»é¢",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -245,8 +245,8 @@
   },
   {
     "id": "theme-eye-care-frontend",
-    "name": "护眼前端主题",
-    "description": "温和的护眼前端主题，适合长时间阅读",
+    "name": "æ¤ç¼åç«¯ä¸»é¢",
+    "description": "æ¸©åçæ¤ç¼åç«¯ä¸»é¢ï¼éåé¿æ¶é´éè¯»",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -367,8 +367,8 @@
   },
   {
     "id": "theme-glass-morphism",
-    "name": "毛玻璃",
-    "description": "磨砂玻璃风格，半透明效果，现代UI设计趋势",
+    "name": "æ¯ç»ç",
+    "description": "ç£¨ç ç»çé£æ ¼ï¼åéæææï¼ç°ä»£UIè®¾è®¡è¶å¿",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -489,8 +489,8 @@
   },
   {
     "id": "theme-pixel-retro",
-    "name": "像素复古",
-    "description": "8-bit像素游戏风格，经典怀旧，适合游戏博主",
+    "name": "åç´ å¤å¤",
+    "description": "8-bitåç´ æ¸¸æé£æ ¼ï¼ç»å¸ææ§ï¼éåæ¸¸æåä¸»",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -611,8 +611,8 @@
   },
   {
     "id": "theme-neon-lights",
-    "name": "霓虹灯",
-    "description": "香港霓虹灯风格，赛博朋克，繁华都市夜生活",
+    "name": "éè¹ç¯",
+    "description": "é¦æ¸¯éè¹ç¯é£æ ¼ï¼èµåæåï¼ç¹åé½å¸å¤çæ´»",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -733,8 +733,8 @@
   },
   {
     "id": "theme-ink-painting",
-    "name": "水墨国风",
-    "description": "传统中国水墨画风格，古典韵味，适合文化博客",
+    "name": "æ°´å¢¨å½é£",
+    "description": "ä¼ ç»ä¸­å½æ°´å¢¨ç»é£æ ¼ï¼å¤å¸éµå³ï¼éåæååå®¢",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -855,8 +855,8 @@
   },
   {
     "id": "theme-northern-lights",
-    "name": "极光",
-    "description": "北欧极光风格，神秘自然，适合旅行摄影博客",
+    "name": "æå",
+    "description": "åæ¬§æåé£æ ¼ï¼ç¥ç§èªç¶ï¼éåæè¡æå½±åå®¢",
     "type": "frontend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -977,8 +977,8 @@
   },
   {
     "id": "default-backend",
-    "name": "默认后端主题",
-    "description": "系统默认的后端管理主题",
+    "name": "é»è®¤åç«¯ä¸»é¢",
+    "description": "ç³»ç»é»è®¤çåç«¯ç®¡çä¸»é¢",
     "type": "backend",
     "isDefault": true,
     "createdAt": "2026-04-22T18:06:41.712Z",
@@ -1099,8 +1099,8 @@
   },
   {
     "id": "theme-dark-backend",
-    "name": "深色后端主题",
-    "description": "适合夜间使用的深色后端管理主题",
+    "name": "æ·±è²åç«¯ä¸»é¢",
+    "description": "éåå¤é´ä½¿ç¨çæ·±è²åç«¯ç®¡çä¸»é¢",
     "type": "backend",
     "isDefault": false,
     "createdAt": "2026-04-22T18:06:41.712Z",
